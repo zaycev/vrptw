@@ -17,3 +17,12 @@ For academic purposes only.
 Contributors
 ------------
 1. Vladimir Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu) (July 2011 - June 2012)
+
+Simple GUI
+----------
+
+Text output
+<div style="float: right"><img src="http://zvm.me/s/img/vrptw-text.png" /></div>
+
+Graphical output 
+<div style="float: right"><img src="http://zvm.me/s/img/vrptw-graphical.png" /></div>
