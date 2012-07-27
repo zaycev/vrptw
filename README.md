@@ -16,7 +16,7 @@ For academic purposes only.
 
 Contributors
 ------------
-1. Vladimir Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu) (July 2011 - June 2012)
+1. Vladimir Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu) (July - June 2012)
 
 Simple GUI
 ----------
