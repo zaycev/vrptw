@@ -13,6 +13,11 @@ Simple `C#` application for solving vehicle routing problems with time windows (
 
 For academic purposes only.
 
+Test Data
+---------
+
+* Please see this issue: [github.com/zaycev/vrptw/issues/1](https://github.com/zaycev/vrptw/issues/1).
+
 Contributors
 ------------
 1. Vladimir Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu) (June-July 2012)
